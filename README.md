@@ -19,8 +19,6 @@
 
 ## 4. Querys
 
-TEST URL http://localhost:8080/graphiql?
-
 ####CREATE 
 
 #####Create Profile
