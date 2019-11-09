@@ -6,9 +6,13 @@
     docker-compose up -d
 
 ## 2. Running as a Packaged Application (Following ways)
-    Way-1 : java -jar target/spring-boot-graphql-0.0.1-SNAPSHOT.jar
+     mvn spring-boot:run (using maven)
+     
+     OR
+     
+     java -jar target/spring-boot-graphql-0.0.1-SNAPSHOT.jar
 
-    Way-2 : mvn spring-boot:run (using maven)
+   
 
 ## 3. Test
     http://localhost:8080/graphiql
