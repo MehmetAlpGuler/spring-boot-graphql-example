@@ -23,7 +23,7 @@
 
 ## 4. Querys
 
-####CREATE 
+###CREATE 
 
 #####Create Profile
 
@@ -259,3 +259,5 @@
       }
     }
     
+#For Detail
+    https://graphql.org/learn/
